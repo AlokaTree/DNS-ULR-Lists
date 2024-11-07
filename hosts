@@ -1,5 +1,9 @@
 # Title: Hosts
 #
 # Test Hosts file to block internetbadguys
+#
+# https://github.com/AlokaTree/DNS-ULR-Lists/blob/main/hosts
+#
+# ===============================================================
 
 0.0.0.0 internetbadguys.com
